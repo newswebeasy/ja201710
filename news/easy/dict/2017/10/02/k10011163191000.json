@@ -1,0 +1,64 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。",
+          "hyouki": [
+            "差別"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "かたよった<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>見方</rb><rt>みかた</rt></ruby>。",
+          "hyouki": [
+            "偏見"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>生</rb><rt>い</rt></ruby>きているもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>生命</rb><rt>せいめい</rt></ruby>。",
+          "hyouki": [
+            "命"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>きている<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "命"
+          ]
+        },
+        {
+          "def": "いちばん<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。",
+          "hyouki": [
+            "命"
+          ]
+        }
+      ]
+    }
+  }
+}
