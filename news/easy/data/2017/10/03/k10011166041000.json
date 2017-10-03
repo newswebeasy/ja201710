@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011166041000.mp3", 
+  "title": "ラスベガス　大勢の人が銃で撃たれて５９人が亡くなる", 
+  "news_prearranged_time": "2017-10-03 17:03:51", 
+  "news_easy_image_uri": "k10011166041000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>アメリカのラスベガスで１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、ホテルやカジノなどの<ruby>近<rt>ちか</rt></ruby>くにある<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>広場<rt>ひろば</rt></ruby></a>にいた<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>銃<rt>じゅう</rt></ruby></a>で<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>撃<rt>う</rt></ruby>た</a>れる<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>事件<rt>じけん</rt></ruby></a>がありました。", 
+  "news_web_movie_uri": "k10011166041_201710031213_201710031215.mp4", 
+  "title_with_ruby": "ラスベガス　<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>銃<rt>じゅう</rt></ruby>で<ruby>撃<rt>う</rt></ruby>たれて５９<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011166041000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

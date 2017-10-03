@@ -1,0 +1,152 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英雄</rb><rt>えいゆう</rt></ruby>。",
+          "hyouki": [
+            "ヒーロー"
+          ]
+        },
+        {
+          "def": "もっとも<ruby><rb>活躍</rb><rt>かつやく</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ヒーロー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>などの、<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>主人公</rb><rt>しゅじんこう</rt></ruby>。",
+          "hyouki": [
+            "ヒーロー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>映画</rb><rt>えいが</rt></ruby>を<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>観客</rb><rt>かんきゃく</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "上映"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。",
+          "hyouki": [
+            "戦う"
+          ]
+        },
+        {
+          "def": "わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "戦う"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。",
+          "hyouki": [
+            "許可"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。",
+          "hyouki": [
+            "許す"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "裁判"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>などの<ruby><rb>決</rb><rt>き</rt></ruby>まりで<ruby><rb>認</rb><rt>みと</rt></ruby>められている<ruby><rb>利益</rb><rt>りえき</rt></ruby>。",
+          "hyouki": [
+            "権利"
+          ]
+        },
+        {
+          "def": "あるものごとをすることのできる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "権利"
+          ]
+        }
+      ]
+    }
+  }
+}

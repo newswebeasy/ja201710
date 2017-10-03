@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011165461000.mp3", 
+  "title": "日産自動車　客に売った１２１万台の検査に問題があった", 
+  "news_prearranged_time": "2017-10-03 17:08:11", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>は、<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>車<rt>くるま</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べる<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>検査<rt>けんさ</rt></ruby></a>のしかたに<ruby>問題<rt>もんだい</rt></ruby>があったことがわかりました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>　<ruby>客<rt>きゃく</rt></ruby>に<ruby>売<rt>う</rt></ruby>った１２１<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>があった", 
+  "news_id": "k10011165461000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171002/../20171002/K10011165461_1710021813_1710021818_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

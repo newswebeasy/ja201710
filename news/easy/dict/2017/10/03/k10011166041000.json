@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。",
+          "hyouki": [
+            "銃"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まれる、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "広場"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>。",
+          "hyouki": [
+            "ミュージック"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>飛行</rb><rt>ひこう</rt></ruby>するための<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "宇宙船"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まり<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>町</rb><rt>まち</rt></ruby>。<ruby><rb>都会</rb><rt>とかい</rt></ruby>。",
+          "hyouki": [
+            "都市"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "だます。",
+          "hyouki": [
+            "乗せる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。",
+          "hyouki": [
+            "宇宙"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。",
+          "hyouki": [
+            "時速"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>楽</rb><rt>たの</rt></ruby>しく<ruby><rb>遊</rb><rt>あそ</rt></ruby>べるように、<ruby><rb>遊</rb><rt>あそ</rt></ruby>び<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>などが<ruby><rb>備</rb><rt>そな</rt></ruby>えてある<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "遊園地"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったり、<ruby><rb>見</rb><rt>み</rt></ruby>たりしたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "料金"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときの、その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>身分</rb><rt>みぶん</rt></ruby>や<ruby><rb>立場</rb><rt>たちば</rt></ruby>。",
+          "hyouki": [
+            "資格"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>などにつくための<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>。",
+          "hyouki": [
+            "資格"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。",
+          "hyouki": [
+            "申し訳ない"
+          ]
+        }
+      ]
+    }
+  }
+}
