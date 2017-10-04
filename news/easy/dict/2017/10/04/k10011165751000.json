@@ -1,0 +1,28 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>家庭</rb><rt>かてい</rt></ruby>でふだん<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "日用品"
+          ]
+        }
+      ]
+    }
+  }
+}

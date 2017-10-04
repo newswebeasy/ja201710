@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011165331000.mp3", 
+  "title": "最も新しい技術や電化製品を紹介するイベントが始まる", 
+  "news_prearranged_time": "2017-10-04 11:30:00", 
+  "news_easy_image_uri": "k10011165331000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>と<ruby>外国<rt>がいこく</rt></ruby>の６６７の<ruby>会社<rt>かいしゃ</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>団体<rt>だんたい</rt></ruby></a>が、<ruby>最<rt>もっと</rt></ruby>も<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>電化製品<rt>でんかせいひん</rt></ruby></a>などを<ruby>紹介<rt>しょうかい</rt></ruby>する「ＣＥＡＴＥＣ　ＪＡＰＡＮ」という<a href='javascript:void(0)' class='dicWin' id='id-0001'>イベント</a>が<ruby>始<rt>はじ</rt></ruby>まりました。", 
+  "news_web_movie_uri": "k10011165331_201710021811_201710021842.mp4", 
+  "title_with_ruby": "<ruby>最<rt>もっと</rt></ruby>も<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>や<ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントが<ruby>始<rt>はじ</rt></ruby>まる", 
+  "news_id": "k10011165331000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

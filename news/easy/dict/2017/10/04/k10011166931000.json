@@ -1,0 +1,162 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「デモンストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。",
+          "hyouki": [
+            "デモ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ほかの<ruby><rb>助</rb><rt>たす</rt></ruby>けや<ruby><rb>支配</rb><rt>しはい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないで、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>だけでやっていくこと。<ruby><rb>独</rb><rt>ひと</rt></ruby>り<ruby><rb>立</rb><rt>だ</rt></ruby>ち。",
+          "hyouki": [
+            "独立"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つだけはなれていること。",
+          "hyouki": [
+            "独立"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。",
+          "hyouki": [
+            "賛成"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "投票"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。",
+          "hyouki": [
+            "憲法"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ところ。",
+          "hyouki": [
+            "所"
+          ]
+        },
+        {
+          "def": "こと。もの。",
+          "hyouki": [
+            "所"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "たがいに<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>勝</rb><rt>か</rt></ruby>とうとする。<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>する。",
+          "hyouki": [
+            "争う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "争う"
+          ]
+        },
+        {
+          "def": "けんかをする。",
+          "hyouki": [
+            "争う"
+          ]
+        },
+        {
+          "def": "ゆっくりしていられない。",
+          "hyouki": [
+            "争う"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>権利</rb><rt>けんり</rt></ruby>が<ruby><rb>国民</rb><rt>こくみん</rt></ruby>にあり、<ruby><rb>国民全体</rb><rt>こくみんぜんたい</rt></ruby>の<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せや<ruby><rb>利益</rb><rt>りえき</rt></ruby>を<ruby><rb>考</rb><rt>かんが</rt></ruby>えて<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>めようとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。デモクラシー。",
+          "hyouki": [
+            "民主主義"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。",
+          "hyouki": [
+            "許す"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>身分</rb><rt>みぶん</rt></ruby>を<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>すること。",
+          "hyouki": [
+            "ID"
+          ]
+        },
+        {
+          "def": "<ruby><rb>個人</rb><rt>こじん</rt></ruby>を<ruby><rb>見分</rb><rt>みわ</rt></ruby>ける<ruby><rb>番号</rb><rt>ばんごう</rt></ruby>。<ruby><rb>暗証番号</rb><rt>あんしょうばんごう</rt></ruby>。",
+          "hyouki": [
+            "ID"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。",
+          "hyouki": [
+            "IT"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。",
+          "hyouki": [
+            "Eメール"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>便</rb><rt>たよ</rt></ruby>り。<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "通信"
+          ]
+        },
+        {
+          "def": "<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>電信</rb><rt>でんしん</rt></ruby>・<ruby><rb>電話</rb><rt>でんわ</rt></ruby>などで、<ruby><rb>連絡</rb><rt>れんらく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "通信"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のためになる、<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "事業"
+          ]
+        },
+        {
+          "def": "<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>や<ruby><rb>店</rb><rt>みせ</rt></ruby>を<ruby><rb>経営</rb><rt>けいえい</rt></ruby>すること。",
+          "hyouki": [
+            "事業"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。みんな。",
+          "hyouki": [
+            "全員"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>。あて<ruby><rb>名</rb><rt>な</rt></ruby>。",
+          "hyouki": [
+            "アドレス"
+          ]
+        },
+        {
+          "def": "インターネットなど、コンピューターの<ruby><rb>通信</rb><rt>つうしん</rt></ruby>ネットワーク<ruby><rb>上</rb><rt>じょう</rt></ruby>に<ruby><rb>存在</rb><rt>そんざい</rt></ruby>する<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>すもの。<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>や<ruby><rb>電話番号</rb><rt>でんわばんごう</rt></ruby>にあたる。",
+          "hyouki": [
+            "アドレス"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "コンピューターを<ruby><rb>使</rb><rt>つか</rt></ruby>うときなどに、その<ruby><rb>人</rb><rt>ひと</rt></ruby>であることを<ruby><rb>確認</rb><rt>かくにん</rt></ruby>する、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なことばや<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。",
+          "hyouki": [
+            "パスワード"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。",
+          "hyouki": [
+            "クレジットカード"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などでお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れのために<ruby><rb>設</rb><rt>もう</rt></ruby>けられた、もとになる<ruby><rb>帳簿</rb><rt>ちょうぼ</rt></ruby>。",
+          "hyouki": [
+            "口座"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011167111000.mp3", 
+  "title": "アメリカのヤフー「盗まれたＩＤの情報は３０億件だった」", 
+  "news_prearranged_time": "2017-10-04 16:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>アメリカの<a href='javascript:void(0)' class='dicWin' id='id-0003'>ＩＴ</a>の<ruby>会社<rt>かいしゃ</rt></ruby>のヤフーのコンピューターに、２０１３<ruby>年<rt>ねん</rt></ruby>、インターネットを<ruby>使<rt>つか</rt></ruby>った「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」がありました。", 
+  "news_web_movie_uri": "k10011167111_201710041114_201710041115.mp4", 
+  "title_with_ruby": "アメリカのヤフー「<ruby>盗<rt>ぬす</rt></ruby>まれたＩＤの<ruby>情報<rt>じょうほう</rt></ruby>は３０<ruby>億<rt>おく</rt></ruby><ruby>件<rt>けん</rt></ruby>だった」", 
+  "news_id": "k10011167111000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171004/../20171004/K10011167111_1710041008_1710041009_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
