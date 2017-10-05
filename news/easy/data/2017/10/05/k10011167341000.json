@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011167341000.mp3", 
+  "title": "東京のデパートにロボット専門の売り場ができる", 
+  "news_prearranged_time": "2017-10-05 17:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿<rt>しんじゅく</rt></ruby>のデパートに、<a href='javascript:void(0)' class='dicWin' id='id-0000'>ロボット</a><ruby>専門<rt>せんもん</rt></ruby>の<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>ができました。", 
+  "news_web_movie_uri": "k10011167341_201710041711_201710041718.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>のデパートにロボット<ruby>専門<rt>せんもん</rt></ruby>の<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>ができる", 
+  "news_id": "k10011167341000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171004/../20171004/K10011167341_1710041447_1710041500_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

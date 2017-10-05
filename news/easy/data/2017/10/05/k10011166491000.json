@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011166491000.mp3", 
+  "title": "日本航空　外国を旅行する人のための新しいカードを作る", 
+  "news_prearranged_time": "2017-10-05 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本航空<rt>にほんこうくう</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の４<ruby>月<rt>がつ</rt></ruby>から、<ruby>日本<rt>にっぽん</rt></ruby>から<ruby>外国<rt>がいこく</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>のための<a href='javascript:void(0)' class='dicWin' id='id-0000'>カード</a>を<ruby>作<rt>つく</rt></ruby>って、<ruby>新<rt>あたら</rt></ruby>しい<a href='javascript:void(0)' class='dicWin' id='id-0001'>サービス</a>を<ruby>始<rt>はじ</rt></ruby>めると<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "k10011166491_201710031832_201710031835.mp4", 
+  "title_with_ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>　<ruby>外国<rt>がいこく</rt></ruby>を<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>のための<ruby>新<rt>あたら</rt></ruby>しいカードを<ruby>作<rt>つく</rt></ruby>る", 
+  "news_id": "k10011166491000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "6", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171003/../20171003/K10011166491_1710031832_1710031835_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

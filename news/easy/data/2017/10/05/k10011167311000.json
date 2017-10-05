@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011167311000.mp3", 
+  "title": "横浜の中華街のホテルがとても大きな月餅を作る", 
+  "news_prearranged_time": "2017-10-05 17:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>昔<rt>むかし</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>暦<rt>こよみ</rt></ruby></a>の８<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>にまるい<ruby>月<rt>つき</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>楽<rt>たの</rt></ruby>しむ<ruby>習慣<rt>しゅうかん</rt></ruby>があります。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>横浜<rt>よこはま</rt></ruby>の<ruby>中華街<rt>ちゅうかがい</rt></ruby>のホテルがとても<ruby>大<rt>おお</rt></ruby>きな<ruby>月餅<rt>げっぺい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る", 
+  "news_id": "k10011167311000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171004/../20171004/K10011167311_1710041413_1710041418_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

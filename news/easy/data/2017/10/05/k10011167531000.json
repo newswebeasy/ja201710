@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011167531000.mp3", 
+  "title": "岩手県　サンマがとれなくて缶詰の工場を閉める", 
+  "news_prearranged_time": "2017-10-05 17:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>サンマ</a>があまり<a href='javascript:void(0)' class='dicWin' id='id-0001'>とれ</a>ません。", 
+  "news_web_movie_uri": "k10011167531_201710041813_201710041813.mp4", 
+  "title_with_ruby": "<ruby>岩手県<rt>いわてけん</rt></ruby>　サンマがとれなくて<ruby>缶詰<rt>かんづめ</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>閉<rt>し</rt></ruby>める", 
+  "news_id": "k10011167531000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171004/../20171004/K10011167531_1710041714_1710041715_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

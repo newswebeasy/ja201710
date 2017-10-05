@@ -1,0 +1,158 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>大腸</rb><rt>だいちょう</rt></ruby>にいる<ruby><rb>細菌</rb><rt>さいきん</rt></ruby>。",
+          "hyouki": [
+            "大腸菌"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>一人</rb><rt>ひとり</rt></ruby>で<ruby><rb>遠泳</rb><rt>えんえい</rt></ruby>・<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>ロードレース・マラソンの<ruby><rb>三種目</rb><rt>さんしゅもく</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けて<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。<ruby><rb>鉄人</rb><rt>てつじん</rt></ruby>レース。",
+          "hyouki": [
+            "トライアスロン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。",
+          "hyouki": [
+            "競技"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ものごとを<ruby><rb>比</rb><rt>くら</rt></ruby>べるとき、そのもととなるよりどころ。<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。",
+          "hyouki": [
+            "基準"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>ったあとのよごれた<ruby><rb>水</rb><rt>みず</rt></ruby>。また、その<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>流</rb><rt>なが</rt></ruby>すみぞや<ruby><rb>管</rb><rt>くだ</rt></ruby>。",
+          "hyouki": [
+            "下水"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。",
+          "hyouki": [
+            "流す"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。",
+          "hyouki": [
+            "布"
+          ]
+        }
+      ]
+    }
+  }
+}

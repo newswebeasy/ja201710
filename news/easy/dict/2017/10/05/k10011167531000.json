@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。",
+          "hyouki": [
+            "秋刀魚"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>加工</rb><rt>かこう</rt></ruby>した<ruby><rb>食品</rb><rt>しょくひん</rt></ruby>を<ruby><rb>缶</rb><rt>かん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>長持</rb><rt>ながも</rt></ruby>ちするようにしたもの。",
+          "hyouki": [
+            "缶詰"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>などに<ruby><rb>閉</rb><rt>と</rt></ruby>じこめること。",
+          "hyouki": [
+            "缶詰"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "のばしたものが、つく。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。",
+          "hyouki": [
+            "届く"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ]
+    }
+  }
+}

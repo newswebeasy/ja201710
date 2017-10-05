@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011167791000.mp3", 
+  "title": "東京オリンピックで水泳を行う海　大腸菌などが多い", 
+  "news_prearranged_time": "2017-10-05 17:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>では、<ruby>東京<rt>とうきょう</rt></ruby>にあるお<ruby>台場<rt>だいば</rt></ruby><ruby>海浜<rt>かいひん</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0003'>トライアスロン</a>の<ruby>水泳<rt>すいえい</rt></ruby>などの<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>競技<rt>きょうぎ</rt></ruby></a>を<ruby>行<rt>おこな</rt></ruby>います。", 
+  "news_web_movie_uri": "k10011167791_201710041937_201710041941.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>水泳<rt>すいえい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>海<rt>うみ</rt></ruby>　<ruby>大腸菌<rt>だいちょうきん</rt></ruby>などが<ruby>多<rt>おお</rt></ruby>い", 
+  "news_id": "k10011167791000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171004/../20171004/K10011167791_1710041937_1710041941_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
