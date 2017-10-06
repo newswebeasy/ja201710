@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011168841000.mp3", 
+  "title": "東京の日本橋でいろいろな人形を集めた「人形市」が始まる", 
+  "news_prearranged_time": "2017-10-06 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本橋<rt>にほんばし</rt></ruby><ruby>人形町<rt>にんぎょうちょう</rt></ruby>は、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>江戸時代<rt>えどじだい</rt></ruby></a>から<ruby>人形<rt>にんぎょう</rt></ruby>の<ruby>町<rt>まち</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>です。", 
+  "news_web_movie_uri": "k10011168841_201710051835_201710051836.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本橋<rt>にほんばし</rt></ruby>でいろいろな<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めた「<ruby>人形市<rt>にんぎょういち</rt></ruby>」が<ruby>始<rt>はじ</rt></ruby>まる", 
+  "news_id": "k10011168841000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171005/../20171005/K10011168841_1710051751_1710051753_01_02.jpg?utm_int=news-life_contents_list-items_003", 
+  "news_easy_movie_uri": "''"
+}
