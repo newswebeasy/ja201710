@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011169521000.mp3", 
+  "title": "月の上を走る日本のロボットをインドでチェックする", 
+  "news_prearranged_time": "2017-10-10 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>月<rt>つき</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>って<ruby>写真<rt>しゃしん</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>映像<rt>えいぞう</rt></ruby></a>を<ruby>送<rt>おく</rt></ruby>ることができる<a href='javascript:void(0)' class='dicWin' id='id-0000'>ロボット</a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>コンテスト</a>に、<ruby>日本<rt>にっぽん</rt></ruby>からは「ＨＡＫＵＴＯ」という<a href='javascript:void(0)' class='dicWin' id='id-0003'>チーム</a>が<ruby>出<rt>で</rt></ruby>ています。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>月<rt>つき</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>日本<rt>にっぽん</rt></ruby>のロボットをインドでチェックする", 
+  "news_id": "k10011169521000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171006/../20171006/K10011169521_1710060826_1710060930_01_02.jpg?utm_int=news-culture_contents_list-items_001", 
+  "news_easy_movie_uri": "''"
+}

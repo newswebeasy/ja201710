@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "ツアー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "もうすぐ<ruby><rb>結婚式</rb><rt>けっこんしき</rt></ruby>を<ruby><rb>挙</rb><rt>あ</rt></ruby>げる、または<ruby><rb>挙</rb><rt>あ</rt></ruby>げたばかりの<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>新婦</rb><rt>しんぷ</rt></ruby>。",
+          "hyouki": [
+            "花嫁"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>生</rb><rt>う</rt></ruby>まれ、その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>や、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが<ruby><rb>表</rb><rt>あらわ</rt></ruby>されている<ruby><rb>歌</rb><rt>うた</rt></ruby>。",
+          "hyouki": [
+            "民謡"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>態度</rb><rt>たいど</rt></ruby>が、<ruby><rb>引</rb><rt>ひ</rt></ruby>きしまること。",
+          "hyouki": [
+            "緊張"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>いごとなどが、<ruby><rb>今</rb><rt>いま</rt></ruby>にも<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなようす。",
+          "hyouki": [
+            "緊張"
+          ]
+        }
+      ]
+    }
+  }
+}

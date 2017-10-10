@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011173231000.mp3", 
+  "title": "ノーベル平和賞は核兵器をなくすために活動するＮＧＯ", 
+  "news_prearranged_time": "2017-10-10 17:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>今年<rt>ことし</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0003'>ノーベル<ruby>賞<rt>しょう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>平和<rt>へいわ</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>賞<rt>しょう</rt></ruby></a>は、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>核兵器<rt>かくへいき</rt></ruby></a>をなくすために<ruby>世界<rt>せかい</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>活動<rt>かつどう</rt></ruby></a>している「ＩＣＡＮ」という<a href='javascript:void(0)' class='dicWin' id='id-0002'>ＮＧＯ</a>がもらうことになりました。", 
+  "news_web_movie_uri": "k10011173231_201710100907_201710100916.mp4", 
+  "title_with_ruby": "ノーベル<ruby>平和賞<rt>へいわしょう</rt></ruby>は<ruby>核兵器<rt>かくへいき</rt></ruby>をなくすために<ruby>活動<rt>かつどう</rt></ruby>するＮＧＯ", 
+  "news_id": "k10011173231000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171010/../20171010/K10011173231_1710100907_1710100916_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

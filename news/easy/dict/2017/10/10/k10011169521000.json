@@ -1,0 +1,128 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "（いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "映像"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。",
+          "hyouki": [
+            "映像"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "しんさや<ruby><rb>投票</rb><rt>とうひょう</rt></ruby>で、どれがすぐれているかを<ruby><rb>競</rb><rt>きそ</rt></ruby>う<ruby><rb>会</rb><rt>かい</rt></ruby>。コンクール。",
+          "hyouki": [
+            "コンテスト"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>筒</rb><rt>つつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れた<ruby><rb>火薬</rb><rt>かやく</rt></ruby>などを<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させ、<ruby><rb>後</rb><rt>うし</rt></ruby>ろへふき<ruby><rb>出</rb><rt>だ</rt></ruby>すガスの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いの<ruby><rb>反動</rb><rt>はんどう</rt></ruby>で、<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。また、それを<ruby><rb>装置</rb><rt>そうち</rt></ruby>した<ruby><rb>飛行物体</rb><rt>ひこうぶったい</rt></ruby>。",
+          "hyouki": [
+            "ロケット"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>便</rb><rt>たよ</rt></ruby>り。<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "通信"
+          ]
+        },
+        {
+          "def": "<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>電信</rb><rt>でんしん</rt></ruby>・<ruby><rb>電話</rb><rt>でんわ</rt></ruby>などで、<ruby><rb>連絡</rb><rt>れんらく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "通信"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。",
+          "hyouki": [
+            "宇宙"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}

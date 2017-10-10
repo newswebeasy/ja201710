@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011172541000.mp3", 
+  "title": "体操の世界大会　白井選手と村上選手が金メダル", 
+  "news_prearranged_time": "2017-10-10 17:40:00", 
+  "news_easy_image_uri": "k10011172541000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>体操<rt>たいそう</rt></ruby></a>の<ruby>世界<rt>せかい</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>大会<rt>たいかい</rt></ruby></a>がカナダでありました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>体操<rt>たいそう</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>　<ruby>白井<rt>しらい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>と<ruby>村上<rt>むらかみ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル", 
+  "news_id": "k10011172541000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

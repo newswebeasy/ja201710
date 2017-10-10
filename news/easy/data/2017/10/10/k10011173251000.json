@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011173251000.mp3", 
+  "title": "位置を知らせるシステムの４つ目の人工衛星を打ち上げる", 
+  "news_prearranged_time": "2017-10-10 17:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>は<ruby>１０日<rt>とおか</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>位置<rt>いち</rt></ruby></a>を<ruby>知<rt>し</rt></ruby>らせる４つ<ruby>目<rt>め</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></a>を<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</a>ました。", 
+  "news_web_movie_uri": "k10011173251_201710100905_201710100905.mp4", 
+  "title_with_ruby": "<ruby>位置<rt>いち</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせるシステムの４つ<ruby>目<rt>め</rt></ruby>の<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる", 
+  "news_id": "k10011173251000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171010/../20171010/K10011173251_1710100905_1710100906_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
