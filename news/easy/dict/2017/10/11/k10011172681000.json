@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>貸</rb><rt>か</rt></ruby>し<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "レンタカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>道</rb><rt>みち</rt></ruby>の<ruby><rb>案内</rb><rt>あんない</rt></ruby>や<ruby><rb>交通</rb><rt>こうつう</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>のために、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>にかかげてある<ruby><rb>標示板</rb><rt>ひょうじばん</rt></ruby>。",
+          "hyouki": [
+            "道路標識"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>宣伝</rb><rt>せんでん</rt></ruby>や<ruby><rb>目印</rb><rt>めじるし</rt></ruby>などのためにはる、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなはり<ruby><rb>紙</rb><rt>がみ</rt></ruby>。",
+          "hyouki": [
+            "ステッカー"
+          ]
+        }
+      ]
+    }
+  }
+}

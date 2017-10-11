@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011174261000.mp3", 
+  "title": "スペインのカタルーニャ州「今すぐには独立しない」", 
+  "news_prearranged_time": "2017-10-11 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>で<ruby>１日<rt>ついたち</rt></ruby>、スペインから<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>独立<rt>どくりつ</rt></ruby></a>することに<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>賛成<rt>さんせい</rt></ruby></a>か<ruby>反対<rt>はんたい</rt></ruby>か、<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちが<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>投票<rt>とうひょう</rt></ruby></a>をしました。", 
+  "news_web_movie_uri": "k10011174261_201710110440_201710110443.mp4", 
+  "title_with_ruby": "スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>「<ruby>今<rt>いま</rt></ruby>すぐには<ruby>独立<rt>どくりつ</rt></ruby>しない」", 
+  "news_id": "k10011174261000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171011/../20171011/K10011174261_1710110440_1710110443_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
