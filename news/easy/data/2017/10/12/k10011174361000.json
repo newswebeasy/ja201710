@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011174361000.mp3", 
+  "title": "世界の肥満の子どもが４０年で１０倍以上に増える", 
+  "news_prearranged_time": "2017-10-12 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'>ＷＨＯ</a>とイギリスの<ruby>大学<rt>だいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0002'>グループ</a>が<ruby>去年<rt>きょねん</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の２００の<ruby>国<rt>くに</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>地域<rt>ちいき</rt></ruby></a>で、<ruby>太<rt>ふと</rt></ruby>りすぎた<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>肥満<rt>ひまん</rt></ruby></a>の<ruby>子<rt>こ</rt></ruby>どもがどのくらいいるか<ruby>調<rt>しら</rt></ruby>べました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>世界<rt>せかい</rt></ruby>の<ruby>肥満<rt>ひまん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが４０<ruby>年<rt>ねん</rt></ruby>で１０<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>える", 
+  "news_id": "k10011174361000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171011/../20171011/K10011174361_1710110855_1710110903_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

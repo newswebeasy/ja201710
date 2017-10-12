@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011175381000.mp3", 
+  "title": "沖縄県　アメリカ軍のヘリコプターが訓練をしていて火事", 
+  "news_prearranged_time": "2017-10-12 16:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>沖縄県<rt>おきなわけん</rt></ruby>で１１<ruby>日<rt>にち</rt></ruby>、アメリカ<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>軍<rt>ぐん</rt></ruby></a>の「ＣＨ５３」という<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0001'>ヘリコプター</a>が、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>訓練<rt>くんれん</rt></ruby></a>をしているときに<ruby>火事<rt>かじ</rt></ruby>になりました。", 
+  "news_web_movie_uri": "k10011175381_201710120505_201710120534.mp4", 
+  "title_with_ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>　アメリカ<ruby>軍<rt>ぐん</rt></ruby>のヘリコプターが<ruby>訓練<rt>くんれん</rt></ruby>をしていて<ruby>火事<rt>かじ</rt></ruby>", 
+  "news_id": "k10011175381000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171012/../20171012/K10011175381_1710120505_1710120534_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
