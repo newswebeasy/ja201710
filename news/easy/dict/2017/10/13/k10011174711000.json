@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。",
+          "hyouki": [
+            "芸術家"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>石英</rb><rt>せきえい</rt></ruby>が<ruby><rb>六角形</rb><rt>ろっかくけい</rt></ruby>の<ruby><rb>柱</rb><rt>はしら</rt></ruby>になっている<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>。はんこやかざり<ruby><rb>物</rb><rt>もの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "水晶"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>してよく<ruby><rb>見</rb><rt>み</rt></ruby>ること。",
+          "hyouki": [
+            "注目"
+          ]
+        }
+      ]
+    }
+  }
+}
