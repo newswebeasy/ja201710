@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011179871000.mp3", 
+  "title": "ポルトガルで山の火事　隣のスペインにも広がる", 
+  "news_prearranged_time": "2017-10-17 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>１５<ruby>日<rt>にち</rt></ruby>、ポルトガルの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>中部<rt>ちゅうぶ</rt></ruby></a>と<ruby>北<rt>きた</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>ほう</a>の<ruby>山<rt>やま</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>火事<rt>かじ</rt></ruby>がありました。", 
+  "news_web_movie_uri": "k10011179871_201710170559_201710170611.mp4", 
+  "title_with_ruby": "ポルトガルで<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>　<ruby>隣<rt>となり</rt></ruby>のスペインにも<ruby>広<rt>ひろ</rt></ruby>がる", 
+  "news_id": "k10011179871000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171017/../20171017/K10011179871_1710170559_1710170612_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
