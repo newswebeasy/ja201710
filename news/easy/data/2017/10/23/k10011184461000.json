@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011184461000",
+  "news_prearranged_time": "2017-10-23 16:20:00",
+  "title": "子どもの本に間違えて毒があるきのこを「食用」と書く",
+  "title_with_ruby": "<ruby>子<rt>こ</rt></ruby>どもの<ruby>本<rt>ほん</rt></ruby>に<ruby>間違<rt>まちが</rt></ruby>えて<ruby>毒<rt>どく</rt></ruby>があるきのこを「<ruby>食用<rt>しょくよう</rt></ruby>」と<ruby>書<rt>か</rt></ruby>く",
+  "outline_with_ruby": "<p><ruby>小学館<rt>しょうがくかん</rt></ruby>は６<ruby>月<rt>がつ</rt></ruby>に『<ruby>小学館<rt>しょうがくかん</rt></ruby>の<ruby>図鑑<rt>ずかん</rt></ruby>ＮＥＯ　きのこ』という<ruby>子<rt>こ</rt></ruby>どものための<ruby>本<rt>ほん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171020/../20171020/K10011184461_1710202046_1710202050_01_02.jpg",
+  "news_web_movie_uri": "k10011184461_201710210637_201710210639.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011184461000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011184461000/k10011184461000.html"
+}

@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>によく<ruby><rb>見</rb><rt>み</rt></ruby>られる、<ruby><rb>山</rb><rt>やま</rt></ruby>のように<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>雲</rb><rt>くも</rt></ruby>。にわか<ruby><rb>雨</rb><rt>あめ</rt></ruby>やかみなりを<ruby><rb>起</rb><rt>お</rt></ruby>こすことが<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>入道雲</rb><rt>にゅうどうぐも</rt></ruby>。<ruby><rb>雷雲</rb><rt>らいうん</rt></ruby>・<ruby><rb>雷雲</rb><rt>かみなりぐも</rt></ruby>。",
+          "hyouki": [
+            "積乱雲"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）が<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>をおしつけている<ruby><rb>力</rb><rt>ちから</rt></ruby>。ふつう、ヘクトパスカルで<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。１０１３ヘクトパスカルを１<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>といい、<ruby><rb>水銀柱</rb><rt>すいぎんちゅう</rt></ruby>を７６０ミリメートルの<ruby><rb>高</rb><rt>たか</rt></ruby>さにおし<ruby><rb>上</rb><rt>あ</rt></ruby>げる<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>に<ruby><rb>等</rb><rt>ひと</rt></ruby>しい。",
+          "hyouki": [
+            "気圧"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ]
+    }
+  }
+}
