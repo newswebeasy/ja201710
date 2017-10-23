@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011184461000/k10011184461000.html",
+      "title": "子どもの本に間違えて毒があるきのこを「食用」と書く",
+      "time": "NEWSWEB EASY 10月23日",
+      "datetime": "2017-10-23"
+    }
+  ],
   "word": [
     {
       "link": "word/0000034.html",

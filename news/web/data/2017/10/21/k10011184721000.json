@@ -39,7 +39,14 @@
       "duration": 0
     }
   ],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011184721000/k10011184721000.html",
+      "title": "空気の汚染などが原因で９００万人が亡くなる",
+      "time": "NEWSWEB EASY 10月23日",
+      "datetime": "2017-10-23"
+    }
+  ],
   "word": [
     {
       "link": "word/0000417.html",
