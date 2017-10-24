@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011193141000",
+  "news_prearranged_time": "2017-10-24 11:30:00",
+  "title": "衆議院の選挙　自民党が勝つ",
+  "title_with_ruby": "<ruby>衆議院<rt>しゅうぎいん</rt></ruby>の<ruby>選挙<rt>せんきょ</rt></ruby>　<ruby>自民党<rt>じみんとう</rt></ruby>が<ruby>勝<rt>か</rt></ruby>つ",
+  "outline_with_ruby": "<p>２２<ruby>日<rt>にち</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>衆議院<rt>しゅうぎいん</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>議員<rt>ぎいん</rt></ruby></a>を<ruby>選<rt>えら</rt></ruby>ぶ<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>選挙<rt>せんきょ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>投票<rt>とうひょう</rt></ruby></a>があって、４６５<ruby>人<rt>にん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>議員<rt>ぎいん</rt></ruby></a>が<ruby>決<rt>き</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171023/../20171023/K10011193141_1710230444_1710230445_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011193141000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011193141000/k10011193141000.html"
+}

@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とともに<ruby><rb>国会</rb><rt>こっかい</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている<ruby><rb>仕組</rb><rt>しく</rt></ruby>みの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や<ruby><rb>予算</rb><rt>よさん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>より<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>権限</rb><rt>けんげん</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>解散</rb><rt>かいさん</rt></ruby>することがある。",
+          "hyouki": [
+            "衆議院"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。",
+          "hyouki": [
+            "選挙"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。",
+          "hyouki": [
+            "議員"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "投票"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について、<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>たちが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "政党"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。",
+          "hyouki": [
+            "憲法"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。",
+          "hyouki": [
+            "案"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。",
+          "hyouki": [
+            "案"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。",
+          "hyouki": [
+            "賛成"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ]
+    }
+  }
+}
