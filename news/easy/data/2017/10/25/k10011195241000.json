@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011195241000",
+  "news_prearranged_time": "2017-10-25 11:30:00",
+  "title": "日本のアニメ　テレビや映画の売り上げが２兆円以上になる",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>のアニメ　テレビや<ruby>映画<rt>えいが</rt></ruby>の<ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げが２<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>アニメ</a>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>などの<a href='javascript:void(0)' class='dicWin' id='id-0003'>グループ</a>は、テレビの<ruby>放送<rt>ほうそう</rt></ruby>や<ruby>映画<rt>えいが</rt></ruby>などで<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ</a>がいくらあったか、<ruby>毎年<rt>まいとし</rt></ruby><ruby>調<rt>しら</rt></ruby>べています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171024/../20171024/K10011195241_1710240457_1710240459_01_03.jpg",
+  "news_web_movie_uri": "k10011195241_201710240457_201710240459.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011195241000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011195241000/k10011195241000.html"
+}

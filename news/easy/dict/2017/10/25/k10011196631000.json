@@ -1,0 +1,132 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>忘</rb><rt>わす</rt></ruby>れないように<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>やノート。<ruby><rb>覚</rb><rt>おぼ</rt></ruby>え<ruby><rb>書</rb><rt>が</rt></ruby>き。",
+          "hyouki": [
+            "メモ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。",
+          "hyouki": [
+            "ノーベル賞"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>電気</rb><rt>でんき</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>のはたらきなどについて<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。",
+          "hyouki": [
+            "物理学"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>を<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>学問</rb><rt>がくもん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "学者"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。<ruby><rb>少年</rb><rt>しょうねん</rt></ruby>。",
+          "hyouki": [
+            "ボーイ"
+          ]
+        },
+        {
+          "def": "ホテルやレストランの、サービス<ruby><rb>係</rb><rt>がかり</rt></ruby>の<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ボーイ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "お<ruby><rb>礼</rb><rt>れい</rt></ruby>としてわたすお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "チップ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをやりとげようとする<ruby><rb>心</rb><rt>こころ</rt></ruby>。",
+          "hyouki": [
+            "意志"
+          ]
+        },
+        {
+          "def": "はっきりとした<ruby><rb>考</rb><rt>かんが</rt></ruby>え。",
+          "hyouki": [
+            "意志"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。",
+          "hyouki": [
+            "中東"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>親</rb><rt>おや</rt></ruby>から<ruby><rb>分</rb><rt>わ</rt></ruby>かれたり、<ruby><rb>結婚</rb><rt>けっこん</rt></ruby>でつながったりしている<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。<ruby><rb>身内</rb><rt>みうち</rt></ruby>。<ruby><rb>親戚</rb><rt>しんせき</rt></ruby>。",
+          "hyouki": [
+            "親類"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>１</rb><rt>いち</rt></ruby>ドルは１００セント。",
+          "hyouki": [
+            "ドル"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "ドル"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "はこぶ。",
+          "hyouki": [
+            "運"
+          ]
+        },
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "運"
+          ]
+        },
+        {
+          "def": "めぐり<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "運"
+          ]
+        }
+      ]
+    }
+  }
+}
