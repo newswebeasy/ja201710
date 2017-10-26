@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011196831000",
+  "news_prearranged_time": "2017-10-26 16:10:00",
+  "title": "神奈川県　台風で網などが壊れてシラスの漁ができない",
+  "title_with_ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>　<ruby>台風<rt>たいふう</rt></ruby>で<ruby>網<rt>あみ</rt></ruby>などが<ruby>壊<rt>こわ</rt></ruby>れてシラスの<ruby>漁<rt>りょう</rt></ruby>ができない",
+  "outline_with_ruby": "<p><ruby>台風<rt>たいふう</rt></ruby>２１<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>号<rt>ごう</rt></ruby></a>は、<ruby>日本<rt>にっぽん</rt></ruby>のいろいろなところで<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>被害<rt>ひがい</rt></ruby></a>を<ruby>出<rt>だ</rt></ruby>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171025/../20171025/K10011196831_1710251149_1710251150_01_02.jpg",
+  "news_web_movie_uri": "k10011196831_201710251220_201710251233.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011196831000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011196831000/k10011196831000.html"
+}
