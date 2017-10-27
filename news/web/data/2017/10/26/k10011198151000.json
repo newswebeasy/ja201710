@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011198151000/k10011198151000.html",
+      "title": "栃木県の動物園のカピバラ もみじが入ったお風呂に入る",
+      "time": "NEWSWEB EASY 10月27日",
+      "datetime": "2017-10-27"
+    }
+  ],
   "word": [],
   "news_id": "k10011198151000",
   "yyyy": "2017",

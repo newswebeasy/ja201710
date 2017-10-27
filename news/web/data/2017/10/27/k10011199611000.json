@@ -69,7 +69,14 @@
       "duration": 0
     }
   ],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011199611000/k10011199611000.html",
+      "title": "タイ 去年亡くなったプミポン国王のお葬式",
+      "time": "NEWSWEB EASY 10月27日",
+      "datetime": "2017-10-27"
+    }
+  ],
   "word": [],
   "news_id": "k10011199611000",
   "yyyy": "2017",

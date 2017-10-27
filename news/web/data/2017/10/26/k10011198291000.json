@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011198291000/k10011198291000.html",
+      "title": "富士山の上が雪で白くなる",
+      "time": "NEWSWEB EASY 10月27日",
+      "datetime": "2017-10-27"
+    }
+  ],
   "word": [],
   "news_id": "k10011198291000",
   "yyyy": "2017",
