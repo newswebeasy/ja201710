@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>秋</rb><rt>あき</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりに、<ruby><rb>木</rb><rt>こ</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>が<ruby><rb>赤</rb><rt>あか</rt></ruby>や<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>わること。また、その<ruby><rb>葉</rb><rt>は</rt></ruby>。",
+          "hyouki": [
+            "紅葉"
+          ]
+        },
+        {
+          "def": "カエデの<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>名</rb><rt>な</rt></ruby>。",
+          "hyouki": [
+            "紅葉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>などにすみ、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>食</rb><rt>く</rt></ruby>いあらす<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。ノネズミ・イエネズミ・ハツカネズミなどがいる。",
+          "hyouki": [
+            "鼠"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。",
+          "hyouki": [
+            "仲間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。",
+          "hyouki": [
+            "仲間"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "温泉"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。",
+          "hyouki": [
+            "載せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>にする。",
+          "hyouki": [
+            "載せる"
+          ]
+        }
+      ]
+    }
+  }
+}

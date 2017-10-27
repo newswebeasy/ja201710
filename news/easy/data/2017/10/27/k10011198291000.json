@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011198291000",
+  "news_prearranged_time": "2017-10-27 16:20:00",
+  "title": "富士山の上が雪で白くなる",
+  "title_with_ruby": "<ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>が<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなる",
+  "outline_with_ruby": "<p><ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>富士吉田<rt>ふじよしだ</rt></ruby><ruby>市<rt>し</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>富士山<rt>ふじさん</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>頂上<rt>ちょうじょう</rt></ruby></a>から<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>ぐらいまで<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなったと<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171026/../20171026/K10011198291_1710261221_1710261229_01_03.jpg",
+  "news_web_movie_uri": "k10011198291_201710261224_201710261229.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011198291000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011198291000/k10011198291000.html"
+}
