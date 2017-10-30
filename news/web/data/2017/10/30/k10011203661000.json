@@ -69,7 +69,20 @@
       "duration": 0
     }
   ],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www.nhk.or.jp/kokusaihoudou/archive/2017/10/1013.html",
+      "title": "危機迫る欧州（４）緊急現地報告～カタルーニャ独立問題の行方",
+      "time": "国際報道２０１７ 10月13日",
+      "datetime": "2017-10-13"
+    },
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011203661000/k10011203661000.html",
+      "title": "スペイン カタルーニャ州で独立に反対するデモ",
+      "time": "NEWSWEB EASY 10月30日",
+      "datetime": "2017-10-30"
+    }
+  ],
   "word": [
     {
       "link": "word/0000422.html",

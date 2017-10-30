@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011199781000/k10011199781000.html",
+      "title": "００万冊の本が並ぶ「神田古本まつり」が始まる",
+      "time": "NEWSWEB EASY 10月30日",
+      "datetime": "2017-10-30"
+    }
+  ],
   "word": [],
   "news_id": "k10011199781000",
   "yyyy": "2017",
