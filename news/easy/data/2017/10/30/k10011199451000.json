@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011199451000",
+  "news_prearranged_time": "2017-10-30 11:30:00",
+  "title": "日本で１番計算が速いスーパーコンピューターを作る",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>計算<rt>けいさん</rt></ruby>が<ruby>速<rt>はや</rt></ruby>いスーパーコンピューターを<ruby>作<rt>つく</rt></ruby>る",
+  "outline_with_ruby": "<p>スーパーコンピューターは、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>計算<rt>けいさん</rt></ruby></a>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>速<rt>はや</rt></ruby>くできるコンピューターで、<ruby>科学<rt>かがく</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>会社<rt>かいしゃ</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>研究所<rt>けんきゅうじょ</rt></ruby></a>などが<ruby>使<rt>つか</rt></ruby>っています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171027/../20171027/K10011199451_1710270642_1710270644_01_02.jpg",
+  "news_web_movie_uri": "k10011199451_201710271006_201710271006.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011199451000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011199451000/k10011199451000.html"
+}
