@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011200331000",
+  "news_prearranged_time": "2017-10-31 11:30:00",
+  "title": "アニメの文化を伝える「東京アニメセンター」ができる",
+  "title_with_ruby": "アニメの<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える「<ruby>東京<rt>とうきょう</rt></ruby>アニメセンター」ができる",
+  "outline_with_ruby": "<p>２８<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>市ヶ谷<rt>いちがや</rt></ruby>に「<ruby>東京<rt>とうきょう</rt></ruby>アニメセンター」が<a href='javascript:void(0)' class='dicWin' id='id-0001'>オープン</a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171027/../20171027/K10011200331_1710271915_1710271936_01_03.jpg",
+  "news_web_movie_uri": "k10011200331_201710271915_201710271936.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011200331000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011200331000/k10011200331000.html"
+}
