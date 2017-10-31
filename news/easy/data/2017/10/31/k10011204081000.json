@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011204081000",
+  "news_prearranged_time": "2017-10-31 16:50:00",
+  "title": "ヨーロッパ　たくさんの雨と強い風で５人亡くなる",
+  "title_with_ruby": "ヨーロッパ　たくさんの<ruby>雨<rt>あめ</rt></ruby>と<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>で５<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>ヨーロッパ</a>で２９<ruby>日<rt>にち</rt></ruby>、たくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>きました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171030/../20171030/K10011204081_1710301509_1710301513_01_03.jpg",
+  "news_web_movie_uri": "k10011204081_201710301509_201710301512.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011204081000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011204081000/k10011204081000.html"
+}

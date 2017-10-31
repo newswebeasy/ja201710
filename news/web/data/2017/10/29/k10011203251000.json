@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011203251000/k10011203251000.html",
+      "title": "ブラジル人が多い群馬県大泉町でサンバを楽しむイベント",
+      "time": "NEWSWEB EASY 10月31日",
+      "datetime": "2017-10-31"
+    }
+  ],
   "word": [],
   "news_id": "k10011203251000",
   "yyyy": "2017",
